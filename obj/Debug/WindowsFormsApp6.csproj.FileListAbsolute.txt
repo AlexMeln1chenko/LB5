@@ -1,0 +1,10 @@
+D:\Proga vvpd\visio\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\Proga vvpd\visio\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\Proga vvpd\visio\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\Proga vvpd\visio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+D:\Proga vvpd\visio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+D:\Proga vvpd\visio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\Proga vvpd\visio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\Proga vvpd\visio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\Proga vvpd\visio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\Proga vvpd\visio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
